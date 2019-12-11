@@ -18,7 +18,7 @@ public class Main {
         String w = in.next();
         int k=0;
         while (in.hasNext()) {
-            boolean first = w.endsWith("y");
+            boolean first = w.endsWith("b");
             if (first==true){
                 k++;
             }
